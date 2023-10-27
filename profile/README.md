@@ -1,7 +1,7 @@
 ## Hey, this is Plutolang community 👋
 
 <p align="center"> 
-  <img src="pluto-logo.png" width="200">
+  <img src="./profile/pluto-logo.png" width="200">
 </p>
 
 Pluto is a new open-source programming language designed to help developers write cloud applications and **make it easier to use cloud services**.
