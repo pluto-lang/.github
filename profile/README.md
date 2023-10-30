@@ -10,7 +10,7 @@ Developers can directly use the **required resources, such as KV databases and m
 
 Let's look at a simple example:
 
-[https://github.com/pluto-lang/pluto/assets/20160766/fcf83f66-5610-4bcc-b764-d0f84e60e07f](https://github.com/pluto-lang/pluto/assets/20160766/fcf83f66-5610-4bcc-b764-d0f84e60e07f)
+[https://github.com/pluto-lang/pluto/assets/20160766/add7f29c-a8f4-406a-a1b5-75495882c809](https://github.com/pluto-lang/pluto/assets/20160766/add7f29c-a8f4-406a-a1b5-75495882c809)
 
 If you prefer a hands-on approach to understanding what we are doing, here are some examples:
 
